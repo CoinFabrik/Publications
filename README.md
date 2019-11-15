@@ -7,6 +7,8 @@
 
 | Company | Date | Audit Report |
 | --- | --- | --- |
+| [Nahmii](https://www.nahmii.io/) | Sep 2019 | [Nahmii Audit](https://blog.coinfabrik.com/nahmii-security-audit/) |
+| [Money on Chain](https://moneyonchain.com/) | Apr 2019 | [Money on Chain Audit I](https://blog.coinfabrik.com/money-on-chain-security-audit-i/) |
 | [ArcadierX](https://www.arcadierx.io) | Mar 2019 | [ArcadierX Audit](https://blog.coinfabrik.com/arcadierx-security-audit/) |
 | [Suntechsoft](https://suntechsoft.com/) | Feb 2019 | [DMToken Audit 2](https://blog.coinfabrik.com/dmtoken-security-audit-v2-2019-updated/) |
 | [EasyPool](http://easypool.io/) | Dec 2018 | [EasyPool Audit 2](https://blog.coinfabrik.com/easypool-smart-contract-security-audit-v2/)|
