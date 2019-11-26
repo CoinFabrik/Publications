@@ -7,6 +7,7 @@
 
 | Company | Date | Audit Report |
 | --- | --- | --- |
+| [Timvi](https://timvi.com/) | Oct 2019 | [Timvi Audit](https://blog.coinfabrik.com/timvi-smart-contract-audit/) |
 | [Nahmii](https://www.nahmii.io/) | Sep 2019 | [Nahmii Audit](https://blog.coinfabrik.com/nahmii-security-audit/) |
 | [Money on Chain](https://moneyonchain.com/) | may 2019 | [Money on Chain Gas Cost Audit](https://blog.coinfabrik.com/money-on-chain-gas-cost/) |
 | [Money on Chain](https://moneyonchain.com/) | Apr 2019 | [Money on Chain Audit I](https://blog.coinfabrik.com/money-on-chain-security-audit-i/) |
