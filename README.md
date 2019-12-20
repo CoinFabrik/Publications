@@ -8,6 +8,7 @@
 | Company | Date | Audit Report |
 | --- | --- | --- |
 | [HEX](https://hex.win/) | Dec 2019 | [Hex Audit](https://blog.coinfabrik.com/hex-smart-contract-audit/)|
+| [Polymath](https://polymath.network/) | Nov 2019 | [Polymath Audit](https://blog.coinfabrik.com/polymath-core-audit/)|
 | [Bitpara](https://www.bitpara.com/) | Nov 2019 | [Bitpara Audit](https://blog.coinfabrik.com/bitpara-smart-contract-audit/) |
 | [Money on Chain](https://moneyonchain.com/) | Oct 2019 | [Money on Chain Audit IV](https://blog.coinfabrik.com/money-on-chain-security-audit-iv/) |
 | [Timvi](https://timvi.com/) | Oct 2019 | [Timvi Audit](https://blog.coinfabrik.com/timvi-smart-contract-audit/) |
