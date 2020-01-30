@@ -1,6 +1,7 @@
 # Publications from CoinFabrik
 
 * [Smart Contract Audits](#smart-contract-audits)
+* [Static Analysis](#Static-Analysis)
 
 
 ## Smart Contract Audits
