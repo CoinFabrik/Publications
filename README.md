@@ -55,5 +55,5 @@
 | --- | --- | --- |
 | [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherTheter.md) | |
 | [Chainlink](https://chain.link/) | Dec 2019 | |
-| [Binance](https://www.binance.com/) | Dec 2019 | |
-
+| [Binance](https://www.binance.com/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherBinance.md
+) | |
