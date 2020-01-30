@@ -1,7 +1,7 @@
 # Publications from CoinFabrik
 
 * [Smart Contract Audits](#smart-contract-audits)
-* [Static Analysis](#Solidity-Static-Analysis)
+* [Solidity Static Analysis](#Solidity-Static-Analysis)
 
 
 ## Smart Contract Audits
@@ -51,7 +51,7 @@
 
 ## Solidity Static Analysis
 
-| Project/Tool | Slither | SmartDec |
+| Project/Tool | [Slither](https://github.com/crytic/slither) | [Securify](https://github.com/eth-sri/securify) |
 | --- | --- | --- |
 | [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherTheter.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyTether.md) |
 | [Chainlink](https://chain.link/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherChainlink.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyChainlink.md)|
