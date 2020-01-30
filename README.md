@@ -53,7 +53,7 @@
 
 | Project/Tool | Slither | SmartDec |
 | --- | --- | --- |
-| [Tether](https://tether.to/) | Slither | |
+| [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/slithertether.md) | |
 | [Chainlink](https://chain.link/) | Dec 2019 | |
 | [Binance](https://www.binance.com/) | Dec 2019 | |
 
