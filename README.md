@@ -49,9 +49,11 @@
 | [Patientory](https://patientory.com/) | Jun 2017 | [Patientory Audit](https://blog.coinfabrik.com/security-audit-crowdsale-token-ptoy-token-ico/)|
 
 
-## Static Analysis
+## Solidity Static Analysis
 
-| Project/Tool | Slither | Securify |
+| Project/Tool | Slither | SmartDec |
 | --- | --- | --- |
-| [HEX](https://hex.win/) | Dec 2019 | [Hex Finaicial Audit](https://blog.coinfabrik.com/hex-financial-audit/)|
-| [HEX](https://hex.win/) | Dec 2019 | [Hex Audit](https://blog.coinfabrik.com/hex-smart-contract-audit/)|
+| [Tether](https://tether.to/) | Slither | |
+| [Chainlink](https://chain.link/) | Dec 2019 | |
+| [Binance](https://www.binance.com/) | Dec 2019 | |
+
