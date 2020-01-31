@@ -3,7 +3,7 @@ Results of running SmartDec on tether.sol
 
 ## Compilation warnings/errors 
 Compiler version not fixed
-Lines: 5-5https://github.com/CoinFabrik/Publications/blob/master/SmartdecTether
+Lines: 5-5h
 Severity: 1
 Pattern id: 23fc32
 
