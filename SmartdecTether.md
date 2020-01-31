@@ -63,7 +63,7 @@ Severity: 1
 Pattern id: 73ufc1
 
 Deprecated constructions
-Lines: 271-273https://github.com/CoinFabrik/Publications/blob/master/SmartdecTether
+Lines: 271-273h
 Severity: 1
 Pattern id: 28fa69
 
