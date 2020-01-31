@@ -51,8 +51,8 @@
 
 ## Solidity Static Analysis
 
-| Project/Tool | [Slither](https://github.com/crytic/slither) | [Securify](https://github.com/eth-sri/securify) |
-| --- | --- | --- |
-| [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherTheter.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyTether.md) |
-| [Chainlink](https://chain.link/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherChainlink.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyChainlink.md)|
-| [Binance](https://www.binance.com/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherBinance.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyBinance.md)|
+| Project/Tool | [Slither](https://github.com/crytic/slither) | [Securify](https://github.com/eth-sri/securify) | [SmartCheck](https://tool.smartdec.net/) |
+| --- | --- | --- | --- |
+| [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherTheter.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyTether.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecTether.md) |
+| [Chainlink](https://chain.link/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherChainlink.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyChainlink.md)| [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecTether.md) |
+| [Binance](https://www.binance.com/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherBinance.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyBinance.md)| [Report](https://github.com/CoinFabrik/Publications/blob/master/SmardecTether.md) |
