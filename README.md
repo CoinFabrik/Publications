@@ -57,4 +57,5 @@
 | [Binance](https://www.binance.com/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherBinance.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyBinance.md)| [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecBinance.md) |
 | [SKALE Network](https://github.com/skalenetwork) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecSkale.md) |https://github.com/CoinFabrik/Publications/blob/master/smartdecAztec.md
 | [Aztec Protocol](https://github.com/AztecProtocol/AZTEC) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/smartdecAztec.md) |
+| [Uniswap](https://github.com/Uniswap/) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/smartdecUniswap.md) |
 
