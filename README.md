@@ -22,7 +22,7 @@
 | [Suntechsoft](https://suntechsoft.com/) | Feb 2019 | [DMToken Audit 2](https://blog.coinfabrik.com/dmtoken-security-audit-v2-2019-updated/) |
 | [EasyPool](http://easypool.io/) | Dec 2018 | [EasyPool Audit 2](https://blog.coinfabrik.com/easypool-smart-contract-security-audit-v2/)|
 | [Decentraland](https://decentraland.org/) | Dec 2018 | [Decentraland Audit](https://blog.coinfabrik.com/decentraland-security-audit/)|
-| [EasyPool](http://easypool.io/) | Sep 2018 | [EasyPool Audit 1](https://blog.coinfabrik.com/easypool-smart-contract-security-audit/)|
+| [EasyPool](http://easypool.io/) | Sep 2018 | [EasyPool Audit 1](https://blog.coinfabrik.com/easypool-smart-contract-security-audit/)|https://github.com/CoinFabrik/Publications/blob/master/smartdecAztec.md
 | [Zeek](https://www.zeex.me/) | Jun 2018 | [Zeek Audit 1](https://blog.coinfabrik.com/zeex-token-auditing-report/) |
 | [Stasis](https://stasis.net/) | Jun 2018 | [Stasis Audit](https://blog.coinfabrik.com/stasis-token-smart-contract-audit/)|
 | [CryptoCup](https://cryptocup.io/) | Jun 2018 |CryptoCup Audit 2 |
@@ -55,6 +55,6 @@
 | [Tether](https://tether.to/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherTheter.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyTether.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecTether.md) |
 | [Chainlink](https://chain.link/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherChainlink.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyChainlink.md)| [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecChainlink.md) |
 | [Binance](https://www.binance.com/) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SlitherBinance.md) | [Report](https://github.com/CoinFabrik/Publications/blob/master/SecurifyBinance.md)| [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecBinance.md) |
-| [SKALE Network](https://github.com/skalenetwork) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecSkale.md) |
-| [Aztec Protocol](https://github.com/AztecProtocol/AZTEC) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecAztec.md) |
+| [SKALE Network](https://github.com/skalenetwork) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/SmartdecSkale.md) |https://github.com/CoinFabrik/Publications/blob/master/smartdecAztec.md
+| [Aztec Protocol](https://github.com/AztecProtocol/AZTEC) |  | | [Report](https://github.com/CoinFabrik/Publications/blob/master/smartdecAztec.md) |
 
