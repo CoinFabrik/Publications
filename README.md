@@ -1,6 +1,7 @@
 # Publications from CoinFabrik
 
 * [Smart Contract Audits](#smart-contract-audits)
+* [Research Publications](#research-publications)
 * [Solidity Static Analysis](#Solidity-Static-Analysis)
 
 
@@ -48,6 +49,14 @@
 | [Real](https://www.real.markets) | Jul 2017 | [Real Audit](https://blog.coinfabrik.com/security-audit-real-estate-crypto-token/)|
 | [Patientory](https://patientory.com/) | Jun 2017 | [Patientory Audit](https://blog.coinfabrik.com/security-audit-crowdsale-token-ptoy-token-ico/)|
 
+
+
+
+## Research Publications
+
+| Date | Name |
+| --- | --- |
+| Feb 2020 | [BatPay: a gas efficient protocol for the recurrent micropayment of ERC20 token](https://arxiv.org/pdf/2002.02316.pdf) |
 
 ## Solidity Static Analysis
 | Project/Tool | [Slither](https://github.com/crytic/slither) | [Securify](https://github.com/eth-sri/securify) | [SmartCheck](https://tool.smartdec.net/) |
