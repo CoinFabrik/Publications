@@ -9,6 +9,9 @@
 
 | Company | Date | Audit Report |
 | --- | --- | --- |
+| [Securitize](https://www.securitize.io) | May 2020 | [Securitize Audit](https://blog.coinfabrik.com/securitize-smart-contract-audit/)|
+| Feyorra | Apr 2020 | [Feyorra Audit](https://blog.coinfabrik.com/feyorra-smart-contract-audit/)|
+| [TOSC](https://nomics.com/markets/tosc-tos-coin/eth-ethereum) | Mar 2020 | [TOSC Audit](https://blog.coinfabrik.com/tosc-smart-contract-audit/)|
 | [HEX](https://hex.win/) | Dec 2019 | [Hex Finaicial Audit](https://blog.coinfabrik.com/hex-financial-audit/)|
 | [HEX](https://hex.win/) | Dec 2019 | [Hex Audit](https://blog.coinfabrik.com/hex-smart-contract-audit/)|
 | [Polymath](https://polymath.network/) | Nov 2019 | [Polymath Audit](https://blog.coinfabrik.com/polymath-core-audit/)|
